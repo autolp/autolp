@@ -1,1 +1,2 @@
-https://autolp.eth.link/
+https://autolp.org
+
